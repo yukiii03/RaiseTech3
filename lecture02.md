@@ -13,6 +13,6 @@
 clone後、mainからbranch（分岐）を作り、pull→add→commit→pushを繰り返して行う。
 
 
-# Markdown
+## Markdown
 
  - HTML（Webページを表示させる言語）が使えなくても、簡単な記号の修飾でスタイリングできるようにしたもの。
